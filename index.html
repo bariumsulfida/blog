@@ -1,0 +1,20 @@
+---
+layout: default
+title: Ngapain Kesini?
+---
+<h1>Blog</h1>
+<div id="head-divider" class="mx-auto"></div>
+
+<div id="luaran" class="container mx-auto p-1">
+    <ul id="posting">
+        {% for post in site.posts %}
+          <li class="list-unstyled">
+            <img src="{{ post.thumbnail }}" class="gambar img-fluid d-block mx-auto">
+            <h2><a href="{{ post.url }}" id="judul">{{ post.title }}</a></h2>
+            <span href="{{ post.url }}" class="excerpt">{{ post.excerpt }}</span>
+            <span id="tanggal">{{ post.date | date: "%A, %-d %B %Y" }}</span>
+            <div id="post-divider" class="mx-auto"></div>
+          </li>
+        {% endfor %}
+    </ul>
+</div>

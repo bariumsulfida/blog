@@ -1,0 +1,161 @@
+/* NavBar */
+nav{
+  background-color: #000AFF;
+  height: 36px;
+}
+
+.logo{
+  font-size: 14pt;
+  color: #fff;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+#logo{
+  color: #fff;
+}
+.ss-bold{
+  font-family: "Source Sans", sans-serif  ;
+  font-size: 9pt;
+  font-weight: 600;
+  color: #fff;
+}
+
+.navbar-brand{
+  margin-top: 0px;
+  background-color: red;
+}
+
+.row{
+  display: flex;
+}
+
+#icon{
+  color: #fff;
+}
+
+
+/* Main */
+
+h1{
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000AFF;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+p{
+  font-family: "Source Sans", sans-serif;
+  font-size: 18px;
+}
+
+#head-divider{
+  border-bottom: 10px solid #000AFF;
+  width: 200px;
+  /* text-align: center; */
+  
+  /* margin-left: 530px;
+  margin-right: 530px; */
+}
+
+#luaran {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  /* padding-left: 200px;
+  padding-right: 200px; */
+  width: 720px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#kontainer {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  /* padding-left: 200px;
+  padding-right: 200px; */
+  width: 720px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.gambar{
+  min-width: none;
+  max-width: 720px;
+}
+
+#posting{
+  padding: 0px;
+  margin: 0px;
+}
+
+.back{
+  font-family: "Space Mono", monospace; 
+  font-weight: 800;
+  color: #000AFF;
+  font-size: 20px;
+}
+.panah-kiri{
+  padding-top: 3px;
+  margin-right: 5px;
+  font-size: 22px;
+}
+
+#judul{
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000AFF;
+  font-size: 32px;
+}
+
+h2{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin: 0px;
+}
+
+.excerpt{
+  padding:0px;
+  margin: 0px;
+  font-family: "Source Sans", sans-serif  ;
+  font-size: 16px;
+  font-weight: 400;
+  color: #6A6A6A;
+  margin-bottom: 0px;
+}
+
+
+#tanggal{
+  font-family: "Source Sans", sans-serif  ;
+  font-size: 14px;
+  font-weight: 600;
+  color: #6A6A6A;
+}
+
+#post-divider{
+  border-bottom: 2px solid #000AFF25;
+  width: 720px;
+  margin: 35px 0px;
+  /* text-align: center; */
+  
+  /* margin-left: 530px;
+  margin-right: 530px; */
+}
+
+.kaki{
+  background-color: #000AFF;
+  height: 100px;
+  font-size: 18px;
+}
+
+h1.post-title{
+  font-size: 48px;
+}
+
+#post-pic{
+  max-width: 100%;
+  height: auto;
+}

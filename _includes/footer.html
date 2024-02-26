@@ -1,0 +1,14 @@
+<footer>
+    <div class="kaki container-fluid py-4">
+        <div class="row px-5 ">
+            <div class="col-sm ">
+              <a href="/" class="logo">bariumsulfida</a>
+            </div>
+            <div class="col-sm d-flex justify-content-end">
+                    {% for item in site.data.socmed %}
+                      <a id="icon" href="{{ item.link }}" class='fa-brands {{item.icon}} px-1 nav-link'></a>
+                    {% endfor %}
+            </div>
+        </div>
+    </div>
+</footer>

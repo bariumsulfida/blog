@@ -1,0 +1,12 @@
+- name: instagram
+  link: https://www.instagram.com/bariumsulfida
+  icon: fa-instagram
+- name: twitter
+  link: https://www.twitter.com/maujualbesi
+  icon: fa-twitter
+- name: linkedin
+  # link: https://www.linkedin.com/in/ahmad-farrel-baswara-7619a3282/
+  icon: fa-linkedin
+- name: behance
+  link:
+  icon: fa-behance
