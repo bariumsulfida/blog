@@ -171,3 +171,12 @@ button:focus {
   width: 100%;
   display: block;
 }
+
+@media only screen and (max-width: 600px) {
+  gambar {
+    height: 185px;
+  }
+  #post-pic{
+    height:240px;
+  }
+} 
