@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Membandingkan Toko Pakaian Andalan Masyarakat Banguntapan
-thumbnail: assets/images/thumbnail_1.png
-
+thumbnail: assets/images/baju.jpg
+kepsyen: Ketimbang ngelamun nunggu Ibu nyari tas, saya mencatat poin-poin berkesan dari tiap toko.
 ---
-Hari ini, saya diminta mengantar Ibu untuk mencari tas yang akan di pakainya ke kondangan. Demi mencari tas impian tersebut, kami perlu mencari ke 3 toko yang ada di sekitar rumah. Ketimbang ngelamun nungguin ibu milih-milih tas,  maka saya mencatat poin-poin yang saya amati dari tiap toko dalam catatan ini.
+Hari ini, saya nganter Ibu untuk mencari tas untuk kondangan. Demi mencari tas yang benar-benar cocok, kami perlu mencari ke 3 toko yang ada di sekitar rumah. Ketimbang ngelamun nungguni, saya mencatat poin-poin berkesan dari tiap toko.
 
 1. Grosir Mancasan
-- suumuk
+- sumuk
 - vibesnya kayak gudang
 - atapnya pakai galvalum
 - luas

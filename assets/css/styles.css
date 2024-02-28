@@ -109,6 +109,12 @@ p{
   color: #6A6A6A; 
 }
 
+.caption{
+  font-family: "Source Sans", sans-serif  ;
+  font-weight: 400;
+  color: #6A6A6A; 
+}
+
 #tanggal{
   font-family: "Source Sans", sans-serif  ;
   font-size: 14px;
@@ -127,14 +133,41 @@ p{
 }
 
 h1.post-title{
-  font-size: 48px;
+  font-size: 36px;
 }
 
 #post-pic{
-  max-width: 100%;
-  height: auto;
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .fa-bars{
   color: #fff;
+}
+
+button:focus {
+  outline: none;
+}
+
+.nav-link:hover{
+  color: #c3c2d1;
+}
+
+.logo:hover{
+  text-decoration: none ;
+  color: #fff;
+}
+
+.thumbnailContainer{
+  /* max-height: 240px; */
+
+}
+
+.gambar{
+  object-fit:cover;
+  height: 240px;
+  width: 100%;
+  display: block;
 }

@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-<!-- <div class="container-fluid d-flex justify-content-center"> -->
+<div class="picContainer">
     <img id="post-pic" class="img-fluid d-block mx-auto" src="{{ page.thumbnail}}">
-<!-- </div> -->
-<div class="post-container container-fluid">
+</div>
+<div class="post-container container pt-3">
     <h1 class="post-title d-flex justify-content-start text-left">{{ page.title }}</h1>
     <p id="tanggal" class="mt-2">{{ page.date | date: "%A, %-d %B %Y" }}</p>
-    <!-- <p>{{page.excerpt}}</p> -->
-    <div id="post-divider" class="mx-auto my-4"></div>
+    <p class="caption">{{page.kepsyen}}</p>
+    <div id="post-divider" class="mx-auto my-3"></div>
     {{ content }}
-    <div class="mt-5">
-        <a href="../" class="mx-auto d-flex justify-content-center back">
+    <div class="mt-5 mb-5">
+        <a href="{{site.baseurl}}/" class="mx-auto d-flex justify-content-center back">
             <i class="fa-arrow-left fa-solid panah-kiri"></i>
             Kembali 
         </a>

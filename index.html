@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Ngapain Kamu?
+title: Hayo Ngapain?
 ---
 
 <div class="container mt-2 text-center mx-auto">
   <h1 class="mx-auto">Blog</h1>
   <div class="head-divider mx-auto"></div>
 </div>
-<div class="container px-3 py-3 pt-md-5 pb-md-4 mx-auto">
+<div class="container px-3 py-3 pt-md-4 pb-md-5 mx-auto">
     <ul id="posting">
         {% for post in site.posts %}
           <li class="list-unstyled">
-            <img src="{{ post.thumbnail }}" class="gambar img-fluid d-block mx-auto">
-            <h2 class="mt-2"><a href="{{ site.newbaseurl}}/{{ post.url }}" id="judul">{{ post.title }}</a></h2>
-            <span href="{{ site.baseurl}}/{{ post.url }}" class="excerpt">{{ post.excerpt }}</span>
+            <div class="thumbnailContainer">
+              <img src="{{ post.thumbnail }}" class="gambar img-fluid d-block mx-auto">
+            </div>
+            <h2 class="mt-2"><a href="{{ site.baseurl}}{{ post.url }}" id="judul">{{ post.title }}</a></h2>
+            <p href="{{ site.baseurl}}{{ post.url }}" class="excerpt">{{ post.kepsyen }}</p>
             <span id="tanggal">{{ post.date | date: "%A, %-d %B %Y" }}</span>
             <div id="post-divider" class="my-4"></div>
           </li>

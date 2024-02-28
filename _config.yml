@@ -16,3 +16,4 @@ url: https://bariumsulfida.github.io/  # the base hostname and protocol for your
 baseurl: /blog      # place folder name if the site is served in a subfolder
 newbaseurl: /blog
 root: /blog
+excerpt_separator: <!--more-->

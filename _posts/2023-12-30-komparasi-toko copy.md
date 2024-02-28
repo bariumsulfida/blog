@@ -1,0 +1,52 @@
+---
+layout: post
+title: myuzik
+thumbnail: assets/images/musik.jpg
+kepsyen: Tulisan ini berisi catatan perjalanan eksplorasi musik saya beberapa tahun ke belakang
+---
+Pandemi covid-19 memaksa milyaran manusia untuk terkurung di rumah. Meskipun menyulitkan, fenomena ini di sisi lain memberikan ruang bagi manusia untuk mengeksplorasi hal-hal baru. Bagi saya, salah satu hal tersebut adalah musik. Bukan musik sebagai pemain—meskipun sempat belajar sedikit. Tetapi sebagai penikmat.
+
+Keluarga saya tidak memiliki cukup *privilege* untuk memasang dan membayar tagihan internet tiap bulan—disamping karena pilihan provider yang terbatas di area rumah dan pertimbangan lain seperti kecepatan internet. Untuk kegiatan belajar *online* maupun aktivitas lain di internet, saya mengandalkan paket data bulanan dari penyedia layanan telekomunikasi. Berbeda dengan wifi yang memiliki akses internet tak berbatas, akses internet oleh layanan telekomunikasi dibatasi oleh kuta Internet dalam satuan *gigabyte*. Hal ini memaksa saya untuk menghemat penggunaan internet agar kuotanya habis tepat di akhir masa aktif paket data. 
+
+Cara saya untuk dapat *survival* dengan adanya limitasi tersebut adalah mencari hiburan yang memakai sedikit kuota data. Netflix? YouTube? tentu saja saya akan menghindar apabila disuruh untuk menekan aplikasi tersebut di layar telepon genggam.  Ketimbang menekan aplikasi tersebut, saya lebih sering menyentuh layar pada aplikasi spotify. Dalam benak saya, aplikasi yang memuat konten audio saja tentu menghabiskan data lebih sedikit ketimbang aplikasi yang memuat konten audio-visual.   Jadilah saya cukup banyak berselancar di spotify untuk mendengarkan berbagai lagu. 
+
+Setelah ini, saya akan menguraikan perjalanan pendengaran musik saya dari tahun ke tahun
+
+### 2019
+
+Sebelum pandemi, selera musik saya banyak dipengaruhi lagu-lagu yang diputar di kelas. “Celengan rindu” dari Fiersa Besari, “Halu” nya Feby Putri, hingga “Kartonyono Medot Janji” nyanyian Denny Caknan, serta lagu-lagu pop seperti Hivi dan Tulus  memenuhi playlist saya pada tahun [2019](https://open.spotify.com/playlist/37i9dQZF1EtqxFqzeteZD2?si=6szfVFAuQ_OqcdIdH4DpXA&pi=a-4paAqdkYRr6z). 
+
+### 2020
+
+Pada [2020](https://open.spotify.com/playlist/37i9dQZF1EMa6pxi6UBFFL?si=mhjDzVQtSXqus9J2jRwz0g&pi=a-gVeMAu54RRuL), saya “menemukan” Isyana Sarasvati. Tentu saja sebelumnya saya sudah mendengarkan lagu-lagunya yang populer seperti “Tetap Dalam Jiwa”. Namun, setelah diulik lebih lanjut, ternyata hampir semua lagu isyana enak untuk dinikmati. Mulai dari lagu mellow pada lagu “Kuterimakan”  hingga RnB upbeat seperti di lagu “Mad” dapat menggugah telinga—belum lagi membahas lagu Isyana bernuansa metal yang dirilis belakangan ini. Disamping Isyana, di tahun ini saya juga cukup banyak mendengarkan lagu pop-punk-jawa dari soundtrack film YoWis Ben macam “Gak Iso Turu” dan “Lagu Galau”.
+
+### [2021](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=SCY_Saq5QyCqytfimRIwQg&pi=a-p1qQUgSoTJ2H)
+
+Setahun pandemi, selain merubah gaya hidup, juga merubah playlist saya. Dimulai dari menemukan “Evaluasi” dan “Secukupnya” Hindia dari spotify, saya lantas mengeksplorasi lagu-lagu Hindia lainnya hingga mengikuti proyek-proyeknya sampai saat ini. Gerbang saya menuju jalan yang *so called* skena juga dimulai dari mendengarkan orang ini. Tampilnya Hindia di [konser silaturahmi ramadhan im3](https://youtu.be/Nnx-RqG7Xa8?si=SqT_ya8CXUqelUcX) membuat saya menonton konser tersebut dan terngiang-ngiang dengan musisi lain yang juga tampil disana, yaitu Barasuara. Sehari setelah menonton konser tersebut di youtube adalah jadwal saya belajar motor bersama ayah. Saya masih ingat ketika lirik “jika kau menerima dirimu dan berdamai dengan itu” tiba tiba saya gumamkan di jalan imogiri barat sambil berusaha mengingat judul lagunya untuk didengarkan ketika sampai rumah. Selain lagu “Taifun” yang membuat saya bergumam, penampilan Barasuara dan Petra Sihombing 
+membawakan lagu “Cinta Digital” dan “Tirai Cahaya” serta rajutan aransemennya pada konser itu memang sangat menarik perhatian saya. keren betul.
+
+Selain Barasuara, Hindia juga membawa saya mengenal The Adams. Penampilan Saleh Husein membawakan “Hanya Kau” di [Perayaan Bayangan](https://youtu.be/ql8cXeTvCD0?si=NR0oCv2QYZIGMlHt) membuat saya penasaran dengan lagu dari band beranggotakan 5 personil ini (sekarang tinggal 3 😔). Rekomendasi youtube mengarahkan saya ke [rekaman](https://youtu.be/4rOO2shvV_s?si=sxfmkp7nD-PTX5oH) penampilan The Adams di Synchronize Fest 2019. Penampilan yang sangat berenergi ditambah suara nyanyian penonton yang dimasukkan dalam *mixing* rekaman menambah ketertarikan saya ke band asal IKJ ini.
+
+Menurut catatan spotify, selain band atau musisi yang sudah disebutkan, pada 2021 saya juga banyak mendengarkan lagu musisi solo seperti Nadin Amizah, Sal Priadi, Yura Yunita, Kunto Aji, dan Rendy Pandugo. Sepertinya musisi tersebut saya dengarkan salah satu *influencenya* adalah konten-kontennya im3 di youtube. Musisi-musisi tersebut memang sering kali muncul di youtubenya im3, baik dalam konser maupun series dokumenter.
+
+Di tahun 2021 juga saya mulai mendengarkan Lomba Sihir, band yang saat itu muncul akibat pandemi. Oh iya, ada Reality Club juga.
+
+### 2022
+
+Tidak banyak perubahan di [Top Songs](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=ddIVmU6dRp6xFfojI6b3WQ) saya pada tahun 2022 kecuali muncul banyak lagu karya Imagine Dragons. Jujur saya lupa kenapa tiba-tiba suka dengan band asal Amerika itu, tapi akhir-akhir ini saya sudah sangat jarang dengerin mereka. Salah satu alasannya karena ada beberapa meme yang nge-bully mereke haha.
+
+Namun, selain itu, di 2022 saya mulai mengeksplor band-band yang belum pernah saya dengar sebelumnya, seperti FSTVLST, Hursa, Perunggu, Rocket Rockers, dan Pee Wee Gaskins. Melihat nama band pop-punk disini mengingatkan salah satu *influence* referensi musik saya, yaitu podcast berizik. Awalnya saya mendengarkan berizik karena tertarik dengan hostnya. Awwe, yang saya tau dari stand up nya, bersama Randhika Djamil, yang tingkahnya ditunggu-tunggu ketika membawakan program bukanya standupindo membuat saya tertarik mendengarkan podcast ini sampai sekarang.
+
+### [2023](https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU?si=429622a1cc254c7b)
+
+Di tahun 2023, saya semakin banyak mengeksplor lagu-lagu dari musisi independen. Banyak nama musisi menarik yang saya temukan di tahun ini, sebut saja Dongker, The Jansen, Tradeto, Glaskaca, dan FSTVLST. Saya rasa akan cukup panjang apabila harus menjelaskan impresi saya terhadap semua musisi tersebut, maka akan saya bahas lain kali saja. 
+
+Beberapa musisi favorit saya juga merilis album di tahun 2023, seperti Hindia, Kunto Aji, Nadin Amizah dan Efek Rumah Kaca. Khusus pada nama terakhir, Efek Rumah Kaca memiliki ruang tersendiri di telinga saya, terbukti mereka berada di barisan teratas *Top Artist* di Spotify Wrapped saya pada tahun ini. Lagu-lagunya memiliki efek magis pada diri saya. Contohnya pada lagu “Putih”, lagu ini berhasil menggambarkan kematian dan kelahiran hingga menyentuh hati. Kemudian lirik-lirik bernada gerakan aktivisme pada “Bersemi Sekebun”,”Jingga”, dan “Di Udara” berhasil menggerakkan jiwa aktivisme saya. Tak lupa juga terdapat lagu-lagu memiliki makna dalam seperti “Sebelah Mata,” “Debu-Debu Beterbangan,” dan “Lagu Kesepian”. Lagu-lagu tersebut banyak menemani saya di tahun 2023. Beruntung, pada November 2023 saya berkesempatan menyaksikan penampilan mereka di FIB UGM, pengalaman pertama saya menonton mereka secara langsung, secara gratis pula.
+
+Bicara tentang pengalaman menonton musik secara langsung, bukan ERK di FIB yang menjadi kali pertama saya menyaksikan penampilan musisi terkenal secara langsung. Pengalaman pertama saya menyaksikan festival musik adalah di Festival Gadjah Mada 2023, 22 Oktober 2023. Saya berkesempatan menonton empat line-up musisi tanpa membayar tiket, tetapi dibayar oleh kerja saya selama berbulan-bulan dalam kepanitiaan FGM hehehe. Keempat musisi yang tampil pada saat itu ialah Olski, Payung Teduh, Gangga, dan Last Child. Pada saat itu saya—dan mungkin banyak orang lain yang juga menonton—tidak cukup familiar dengan lagu-lagu para penampil. Hanya Olski yang beberapa lagunya cukup sering saya dengar. Payung Teduh? cuma hafal lagu “Akad” sama “Untuk Perempuan dalam Pelukan” yang bahkan keduanya tidak dibawakan pada saat itu. Gangga? cuma tau “Blue Jeans”. Last Child malah baru dengar lagunya beberapa hari sebelum acara. Tapi, ya, untuk festival “gratisan” sangat menghibur lah.
+
+Pada ulang tahun saya di tahun 2023, saya melakukan hal yang mungkin bisa dibilang *alay,* yaitu membuat playlist untuk memperingati ulang tahun. Playlistnya berjudul [19](https://open.spotify.com/playlist/5zIygCbWfVRHB0H6FlzXqG?si=11b570ca9fdd4d3e). Tentu saja Judulnya diambil dari jumlah ulang tahun saya waktu itu. Playlist ini terdiri dari 19 lagu yang saya pilih karena “insiden-insiden” yang terjadi atau memiliki kesan tersendiri di satu tahun sebelum ulang tahun saya ke-19 . Ada soundtrack film Oppenheimer dan Rudy Habibie yang masuk karena habis nonton filmnya, ada juga lagu The Kandangs berjudul “IPK” yang masuk karena ip saya turun pada waktu itu awokawk.
+
+Kurang lebih mungkin itu saja yang bisa saya ceritakan terkait perjalanan pencarian musik saya.  Lagu-lagu dan musisi yang diceritakan disini hampir semuanya berasal dari Indonesia karena memang kebanyakan lagu yang saya eksplor ya lagu Indonesia. Sebenarnya ada beberapa musisi luar seperti The Strokes, Oasis, atau Artic Monkey yang kadang saya dengarkan, tetapi entah kenapa secara umum selera saya masih condong ke lagu lagu Indonesia.
+
+Akhir kata, saya ingin mengingatkan penulis dan jamaah yang membaca untuk jangan lupa ngaji, kawan-kawan. Ingat! mendengarkan musik boleh, tetapi mengingat Allah lebih utama.

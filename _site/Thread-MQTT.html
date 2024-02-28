@@ -20,13 +20,13 @@
 
         <a  id="logo" class="logo" >bariumsulfida</a>
 
-        <button class="navbar-toggler justify-content-end text-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <i class="navbar-toggler fa-solid fa-bars"></i>
+        <button class="navbar-toggler justify-content-end text-right px-0" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="navbar-toggler fa-solid fa-bars px-0"></i>
         </button>
 
-      <div class="col collapse navbar-collapse" id="navbarNav">
+      <div class="col collapse navbar-collapse px-0" id="navbarNav">
 
-          <ul class="navbar-nav  d-flex justify-content-center">
+          <ul class="navbar-nav  ml-auto pr-5">
             
             <li class="nav-item">
               <a href="/" class='nav-link ss-bold px-3' >
@@ -48,7 +48,7 @@
             
           </ul>
 
-          <ul class="navbar-nav d-flex justify-content-end">
+          <ul class="navbar-nav ml-auto sosmed-kanan ">
             
             <li class="nav-item">
               <a id="icon" href="https://www.instagram.com/bariumsulfida" class='fa-brands fa-instagram px-1 nav-link'></a>
@@ -70,39 +70,37 @@
       </div>
 
 </nav>
-    <!-- <div class="container-fluid d-flex justify-content-center"> -->
+    <div class="picContainer">
     <img id="post-pic" class="img-fluid d-block mx-auto" src="assets/images/thumbnail_1.png">
-<!-- </div> -->
-<div class="post-container container-fluid">
+</div>
+<div class="post-container container pt-3">
     <h1 class="post-title d-flex justify-content-start text-left">MQTT, sebuah protokol</h1>
     <p id="tanggal" class="mt-2">Wednesday, 31 January 2024</p>
-    <!-- <p><p>Dalam dunia IoT, terdapat suatu prosedur komunikasi antara perangkat IoT dan jaringan internet. Prosedur komunikasi tersebut sering disebut dengan protokol. Ada beberapa protokol yang dapat digunakan, seperti http, WebSocket, dan MQTT. Kali ini, kita akan membahas MQTT.</p>
-
-</p> -->
-    <div id="post-divider" class="mx-auto my-4"></div>
+    <p class="caption">Lagi seneng belajar IoT</p>
+    <div id="post-divider" class="mx-auto my-3"></div>
     <p>Dalam dunia IoT, terdapat suatu prosedur komunikasi antara perangkat IoT dan jaringan internet. Prosedur komunikasi tersebut sering disebut dengan protokol. Ada beberapa protokol yang dapat digunakan, seperti http, WebSocket, dan MQTT. Kali ini, kita akan membahas MQTT.</p>
 
 <p>Kenapa harus MQTT? Pada laman webnya, mereka mengklaim bahwa MQTT menggunakan resources yang rendah sehingga dapat digunakan pada microcontroller. Selain itu, pesan yang dikirim lewat MQTT berukuran kecil dan dapat dioptimasi pada bandwith jaringan yang rendah.</p>
 
 <p>Dalam MQTT, perangkat yang berkomunikasi disebut dengan client. Client dapat melakukan dua hal, yaitu publish untuk mengirim data dan subscribe untuk menerima data. Tiap pesan yang dikirim ataupun diterima lewat MQTT memiliki topic. Supaya terhubung, publisher (pengirim) dan subscriber (penerima) harus terhubung pada topic yang sama.</p>
 
-<p><img src="/blogassets/images/Untitled.png" alt="_config.yml" width="600" /></p>
+<p><img src="/blog/assets/images/Untitled.png" alt="_config.yml" width="600" /></p>
 
 <p>Di antara publisher dan subscriber terdapat Broker yang berperan sebagai perantara. Broker bisa dijalankan secara lokal melalui software mosquitto atau menggunakan broker publik seperti <a href="http://hivemq.com">hivemq.com</a>. Sama halnya dengan topic, broker yang terhubung dengan publisher dan subscriber juga harus sama.</p>
 
 <p>Jika memilih menjalankan broker pada jaringan lokal, cukup install mosquitto dan ketik perintah dibawah ini</p>
 
-<p><img src="/blogassets/images/Untitled%201.png" alt="_config.yml" width="600" /></p>
+<p><img src="/blog/assets/images/Untitled%201.png" alt="_config.yml" width="600" /></p>
 
 <p>Jika broker sudah berjalan, maka komunikasi melalui MQTT sudah bisa berjalan. Paling mudah bisa menggunakan software MQTT explorer untuk melakukan publish ataupun subscribe. cukup masukkkan alamat ip broker pada kolom host untuk menghubungkan. kemudian komunikasi data sudah bisa dilakukan. yey</p>
 
-<p><img src="/blogassets/images/Untitled%202.png" alt="_config.yml" width="600" /></p>
+<p><img src="/blog/assets/images/Untitled%202.png" alt="_config.yml" width="600" /></p>
 
 <p>Kalau ingin mengolah data pakai python, dapat digunakan library paho-mqtt dengan contoh kode berikut untuk subscribe(kiri) dan publish (kanan). di contoh ini, digunakan broker lokal dan topik “GUI/data”</p>
 
-<p><img src="/blogassets/images/Untitled%203.png" alt="_config.yml" width="600" /></p>
+<p><img src="/blog/assets/images/Untitled%203.png" alt="_config.yml" width="600" /></p>
 
-<p><img src="/blogassets/images/Untitled%204.png" alt="_config.yml" width="600" /></p>
+<p><img src="/blog/assets/images/Untitled%204.png" alt="_config.yml" width="600" /></p>
 
 <p>Jika ingin diaplikasikan di mikrokontroler, ada juga client MQTT seperti <a href="https://github.com/knolleary/pubsubclient">https://github.com/knolleary/pubsubclient</a></p>
 
@@ -115,20 +113,19 @@
   <li>mqtt.org</li>
 </ul>
 
-    <div class="mt-5">
-        <a href="../" class="mx-auto d-flex justify-content-center back">
+    <div class="mt-5 mb-5">
+        <a href="/blog/" class="mx-auto d-flex justify-content-center back">
             <i class="fa-arrow-left fa-solid panah-kiri"></i>
             Kembali 
         </a>
     </div>
 </div>
     <footer>
-    <div class="kaki container-fluid py-4">
-        <div class="row px-5 ">
-            <div class="col-sm ">
+    <div class="kaki py-4 mr-0 row">
+            <div class="col my-auto ml-3 ml-md-5">
               <a href="/" class="logo">bariumsulfida</a>
             </div>
-            <div class="col-sm d-flex justify-content-end">
+            <div class="col d-flex justify-content-end my-auto mr-3 mr-md-5 pr-0">
                     
                       <a id="icon" href="https://www.instagram.com/bariumsulfida" class='fa-brands fa-instagram px-1 nav-link'></a>
                     
@@ -138,7 +135,6 @@
                     
                       <a id="icon" href="" class='fa-brands fa-behance px-1 nav-link'></a>
                     
-            </div>
         </div>
     </div>
 </footer>

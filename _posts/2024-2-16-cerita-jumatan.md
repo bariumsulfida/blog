@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Cerita Jumatan
-thumbnail: assets/images/thumbnail_1.png
-
+thumbnail: assets/images/output.jpg
+kepsyen: Enggak tau kenapa, saya merasa perlu mendokumentasikan perjalanan jumatan saya hari ini. 
 ---
-Enggak tau kenapa, saya merasa perlu mendokumentasikan perjalanan jumatan saya hari ini. 
 
 Siang ini cuaca cukup teduh, rasanya saya tidak was-was untuk markirin motor di tempat yang enggak ada atapnya. Maklum, jika cuaca panas, biasanya jok motor akan sedikit memanggang bokong saya saat perjalanan pulang nanti. Saya memarkirkan motor di depan sebuah wastafel besi yang sudah tidak digunakan di depan gedung TK yang masih satu komplek dengan masjid tempat saya akan sholat jumat. Beberapa tahun silam, wastafel itu disediakan untuk memenuhi anjuran mencuci tangan sebagai bentuk pencegahan penyebaran virus. 
 
@@ -28,13 +27,13 @@ Beliau menukil surat Ali Imran ayat ke 26, juga membacakan artinya.
 
 “Katakanlah: "Wahai Tuhan Yang mempunyai kerajaan, Engkau berikan kerajaan kepada orang yang Engkau kehendaki dan Engkau cabut kerajaan dari orang yang Engkau kehendaki. Engkau muliakan orang yang Engkau kehendaki dan Engkau hinakan orang yang Engkau kehendaki. Di tangan Engkaulah segala kebajikan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu.””
 
-Beliau mengaitkan ayat ini dengan peristiwa yang baru-baru ini dijalani masyarakat Indonesia, yaitu pemilu. “Pada ayat ini, Allah SWT menegaskan bahwa diangkatnya seorang pemimpin tidak lain adalah atas kehendak-Nya, *qulillāhumma mālikal-mulki tu`til-mulka man tasyā`u.*“ ucap sang khatib beriringan dengan tangis seorang anak. 
+Beliau mengaitkan ayat ini dengan peristiwa yang baru-baru ini dijalani masyarakat Indonesia, yaitu pemilu. “Pada ayat ini, Allah SWT menegaskan bahwa diangkatnya seorang pemimpin tidak lain adalah atas kehendak-Nya, *qulillāhumma mālikal-mulki tu\`til-mulka man tasyā\`u.*“ ucap sang khatib beriringan dengan tangis seorang anak. 
 
 “Namun, perlu digarisbawahi bahwa pada ayat ini Allah SWT memisahkan antara *kemuliaan* dan *kerajaan.”* Khatib menjelaskan bahwa ketika Allah mengangkat seseorang menjadi raja (pemimpin) tidak sama dengan mengangkat kemuliaannya. Bisa saja seseorang diangkat menjadi pemimpin, tetapi tidak diangkat kemuliaannya. “Jadi jangan berbangga-bangga apabila paslon yang dijagokan menang, sebab belum tentu kemuliaannya diangkat beriringan dengan diangkatnya sebagai pemimpin. Juga kepada pendukung paslon yang kalah, jangan berkecil hati atau meluapkan amarah. Jangan jadi muslim sumbu pendek.” ujar sang Khatib. Mendengar itu, seorang mbah-mbah didepan saya terlihat manggut-manggut.
 
 Pemaparan khatib tersebut memberikan penyegaran pada pikiran saya. Sebab, sebelumnya saya cukup jenuh melihat opini di sosial media yang senada macam “intelektual berada di menara gading” atau “percuma kampanye intelek tapi *enggak* sampai *grassroot*”. Komentar yang muncul menanggapi kekalahan dua paslon pada *quick count* pilpres tersebut meskipun mungkin ada benarnya, tetapi banyak mereduksi faktor-faktor lain yang cukup besar pengaruhnya.
 
-Khatib juga menyadarkan saya bahwa ada perbedaan antara kemenangan dan kemuliaan. Dan tentu, kemenangan yang mengacaukan demokrasi tidaklah mulia—setidaknya pada pandangan saya.
+<!-- Khatib juga menyadarkan saya bahwa ada perbedaan antara kemenangan dan kemuliaan. Dan tentu, kemenangan yang mengacaukan demokrasi tidaklah mulia—setidaknya pada pandangan saya. -->
 
 ---
 
