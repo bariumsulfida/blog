@@ -5,6 +5,8 @@ thumbnail: assets/images/ytkp.jpg
 kepsyen: buku tentang perjalanan eksil di Jerman
 ---
 
+![_config.yml]({{ site.baseurl }}/assets/images/ytkp_2.jpg){: width="400" align="center }
+
 Author: Soe Tjen Marching
 
 Publisher: EA Books
@@ -14,9 +16,6 @@ Finished Date : April 26, 2024
 Date Started: April 23, 2024
 
 Tebal: 330
-
-
-![_config.yml]({{ site.baseurl }}/assets/images/ytkp_2.jpg){: width="600" }
 
 “Soeharto itu Kontol!” adalah kalimat yang paling saya ingat dari buku ini. *Yang Tak Kunjung Padam*  berisi perjalanan hidup beberapa eksil akibat peristiwa ‘65 yang tertahan di Jerman. Kalimat tadi terlontar oleh Pipit, salah satu eksil saat diinterograsi oleh KBRI terkait pandangannya terhadap Soeharto.  Selain Pipit, terdapat tiga orang lagi yang menjadi narasumber untuk buku ini, yaitu Waruno Mahdi, Arif Harsana, Supardjo, dan Willy Wirantaprawira.
 
@@ -28,6 +27,6 @@ Konon katanya, salah alasan mengapa para eksil dicabut paspornya ialah karena af
 
 Selain membahas perjalanan politik dan kehidupan sebagai eksil, Soe Tjen juga mengulik kisah cinta dari tiap narasumber. Ada cerita menarik dari Waruno, yang trauma untuk dekat dengan perempuan karena ia pernah berpacaran dengan intel Rusia. Rupanya perempuan tersebut hanya berusaha untuk mengulik informasi dari Waruno. Ada juga cerita dari Willy yang gagal menikah karena surat-surat yang ia sampaikan untuk kekasihnya tidak di sampaikan oleh keluarga si perempuan. 
 
-![_config.yml]({{ site.baseurl }}/assets/images/ytkp_3.jpg){: width="600" }
+![_config.yml]({{ site.baseurl }}/assets/images/ytkp_3.jpg){: width="400" align="center }
 
 Segenap cerita-cerita yang disampaikan narasumber disimpulkan oleh penulis dalam sebuah epilog. Menyampaikan bahwa setiap tidak ada orang yang bisa lepas dari politik. Mengutip dari kalimat yang tertulis di epilog dan diabadikan pada pembatas buku, “Mereka yang apatis, tak mau ingin terlibat politik, sebenarnya tanpa disadari tak bisa menghindari politik sama sekali.”
