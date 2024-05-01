@@ -2,14 +2,19 @@
 layout: post
 title: Yang Tak Kunjung Padam
 thumbnail: assets/images/ytkp.jpg
-kepsyen: Enggak tau kenapa, saya merasa perlu mendokumentasikan perjalanan jumatan saya hari ini. 
+kepsyen: buku tentang perjalanan eksil di Jerman
 ---
 
 Author: Soe Tjen Marching
+
 Publisher: EA Books
+
 Finished Date : April 26, 2024
+
 Date Started: April 23, 2024
+
 Tebal: 330
+
 
 ![_config.yml]({{ site.baseurl }}/assets/images/ytkp_2.jpg){: width="600" }
 
