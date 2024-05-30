@@ -1,6 +1,6 @@
 ---
 layout: post
-title: myuzik(2): Lagi dengerin Banda Neira
+title: myuzik(2), Lagi dengerin Banda Neira
 thumbnail: assets/images/musik.jpg
 kepsyen: sayang udah bubar
 ---
@@ -10,7 +10,6 @@ Cuitan ini ditulis setelah mengulik hampir semua video youtube di kanal youtube 
 
 Jadi, tak berlebihan kiranya jika aku menggunakan “menggilai” di paragraf pertama, sebab selain ini kayaknya udah hari ketiga aku repeat lagunya Banda Neira, juga telah kucari tahu semua informasi terkait band ini.
 
----
 
 Beberapa waktu yang lalu, Ananda Badudu, eks vokalis Banda Neira ngetwit, awalnya bercanda “Mending reuni atau album baru sekalian?” ketika ditanya tentang kemungkinan Banda Neira reuni. Sontak, twit itu menghebohkan warganet. Bagaimana tidak? Banda Neira yang muncul membawa angin segar pada musik folk-indie sekitar 2013 harus dipaksa vakum dan bubar di waktu yang cukup muda, pada akhir 2016, meninggalkan lagu-lagu yang masih banyak diputar hingga sekarang. Namun, kemudian Ananda Badudu mengklarifikasi twit-nya dan menegaskan Banda Neira tidak akan pernah reuni. Meruntuhkan harapan ratusan atau mungkin ribuan orang yang menunggu.
 

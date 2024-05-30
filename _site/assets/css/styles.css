@@ -19,6 +19,7 @@ nav{
   font-size: 9pt;
   font-weight: 600;
   color: #fff;
+  text-indent: 0px;
 }
 
 .navbar-brand{
@@ -49,6 +50,7 @@ h1{
 p{
   font-family: "Source Sans", sans-serif;
   margin-bottom: 0.5rem;
+  text-indent: 50px;
 }
 
 .head-divider{
@@ -113,6 +115,7 @@ p{
   font-family: "Source Sans", sans-serif  ;
   font-weight: 400;
   color: #6A6A6A; 
+  text-indent: 0px; !important
 }
 
 #tanggal{
@@ -120,6 +123,7 @@ p{
   font-size: 14px;
   font-weight: 600;
   color: #181819;
+  text-indent: 0px;
 }
 
 #post-divider{
