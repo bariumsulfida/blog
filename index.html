@@ -11,13 +11,13 @@ title: Hayo Ngapain?
     <ul id="posting">
         {% for post in site.posts %}
           <li class="list-unstyled">
-            <div class="thumbnailContainer">
+            <!-- <div class="thumbnailContainer">
               <img src="{{ post.thumbnail }}" class="gambar img-fluid d-block mx-auto">
-            </div>
-            <h2 class="mt-2"><a href="{{ site.baseurl}}{{ post.url }}" id="judul">{{ post.title }}</a></h2>
+            </div> -->
+            <div id="post-divider" class="my-3"></div>
+            <h2 class=""><a href="{{ site.baseurl}}{{ post.url }}" id="judul">{{ post.title }}</a></h2>
             <p href="{{ site.baseurl}}{{ post.url }}" class="excerpt">{{ post.kepsyen }}</p>
             <span id="tanggal">{{ post.date | date: "%A, %-d %B %Y" }}</span>
-            <div id="post-divider" class="my-4"></div>
           </li>
         {% endfor %}
     </ul>
